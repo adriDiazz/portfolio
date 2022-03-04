@@ -530,7 +530,7 @@
 
 @media (min-width: 1600px) {
 
-    .title{
+    /* .title{
         font-size: 8em;
     }
 
@@ -540,7 +540,7 @@
 
     .hero__info img{
         width:500px;
-    }
+    }*/
 
     .hero__img-dev{
         display: flex;
@@ -548,7 +548,7 @@
         width: 100%;
         height: 700px;
 
-    }
+    } 
 
     .hero__img-dev img{
         /* height: 400px; */
@@ -600,7 +600,7 @@
     }
     
     .imagenes img{
-        width: 100%;
+        width: 600px;
         overflow: hidden;
     }
 
